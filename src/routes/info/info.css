@@ -1,0 +1,18 @@
+.howTo {
+  font-size: 3rem;
+  margin: 0 auto;
+}
+
+.howStuffWorks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.description {
+  width: 250px;
+  text-align: center;
+}
